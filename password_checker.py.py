@@ -1,7 +1,12 @@
-"""
+def method_name():
+    """
 CP1404/CP5632 - Practical
 Password checker "skeleton" code to help you get started
+
 """
+
+
+method_name()
 
 MIN_LENGTH = 2
 MAX_LENGTH = 6
